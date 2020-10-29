@@ -1,4 +1,16 @@
-### Hi there 👋
+# 👋 Hi there! 👋
+
+### My name is Ryan Branch. <br />I'm a scientific researcher and software engineer in the computer vision industry.<br />I'm interested in simulations, ML, image processing, procedural generation, digital art & mechatronics.
+
+- 🎓 I graduated from **The University of Michigan** in **2018** with a **B.S.E. in Chemical Engineering** and a **minor in Computer Science**
+- 🔭 I’m currently working on **computer vision software**
+- 🌱 I’m currently learning **3D geometry and graphics processing techniques**
+- 👯 I’m looking to collaborate on **comma\.ai [**openpilot**](https://github.com/ryanbranch/openpilot) and related projects**
+- 🤔 I’m looking for help with **Docker and the creation of my own local Docker images on Ubuntu 20.04**
+- 💬 Ask me about **accelerating Python code with Numba**, especially with regard to **digital image processing**
+- 📫 How to reach me: **contactryanbranch@gmail.com, or visit [my Contact page](https://ryanbran.ch/contact/) for alternatives**
+- 😄 Pronouns: **he/him/his**
+- ⚡ Fun fact: **I have a [website](https://ryanbran.ch/), including a [blog](https://ryanbran.ch/blog/)!**
 
 <!--
 **ryanbranch/ryanbranch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
