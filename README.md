@@ -10,7 +10,19 @@
 - 💬 Ask me about **accelerating Python code with Numba**, especially with regard to **digital image processing**
 - 📫 How to reach me: **contactryanbranch@gmail.com, or visit [my Contact page](https://ryanbran.ch/contact/) for alternatives**
 - 😄 Pronouns: **he/him/his**
-- ⚡ Fun fact: **I have a [website](https://ryanbran.ch/), including a [blog](https://ryanbran.ch/blog/)!**
+- ⚡ Fun fact: **I am currently applying to PhD programs in materials science, with a focus on computational research**
+
+### On the Web
+
+ - My primary personal domain is [**ryanbran.ch**](https://ryanbran.ch/) where I have a variety of personal content including a [**blog**](https://ryanbran.ch/blog/)
+ - I also own [**ryanbranch.net**](https://ryanbranch.net/), which is used as a landing page for SEO reasons
+ - I have profiles on the following external services:
+   - **LinkedIn:** [/in/ryanbranch](https://www.linkedin.com/in/ryanbranch)
+   - **Twitter:** [@rjbranch](https://twitter.com/rjbranch)
+   - **Discord:** @RyanBranch#4020
+   - **ORCID:** [0000-0001-6456-3468](https://orcid.org/0000-0001-6456-3468)
+   - **Google Scholar:** [Ryan Branch](https://scholar.google.com/citations?user=tkVpzE4AAAAJ)
+
 
 <!--
 **ryanbranch/ryanbranch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
