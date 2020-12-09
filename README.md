@@ -1,4 +1,4 @@
-# 👋 Hi there! 👋
+# Hello!
 
 ### My name is Ryan Branch. <br />I'm a scientific researcher and software engineer in the computer vision industry.<br />I'm interested in simulations, ML, image processing, procedural generation, digital art & mechatronics.
 
