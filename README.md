@@ -1,6 +1,6 @@
 # Hello!
 
-### My name is Ryan Branch. <br />I'm a scientific researcher and software engineer in the computer vision industry.<br />I'm interested in simulations, ML, image processing, procedural generation, digital art & mechatronics.
+### My name is Ryan Branch. <br />I'm a scientific researcher and software engineer in the computer vision industry.<br />I'm interested in simulations, ML, image processing, procedural generation, mechatronics, digital art, smart contracts, and decentralization.
 
 - 🎓 I graduated from **The University of Michigan** in **2018** with a **B.S.E. in Chemical Engineering** and a **minor in Computer Science**
 - 🔭 I’m currently working on **computer vision software**
@@ -10,7 +10,6 @@
 - 💬 Ask me about **accelerating Python code with Numba**, especially with regard to **digital image processing**
 - 📫 How to reach me: **contactryanbranch@gmail.com, or visit [my Contact page](https://ryanbran.ch/contact/) for alternatives**
 - 😄 Pronouns: **he/him/his**
-- ⚡ Fun fact: **I am currently applying to PhD programs in materials science, with a focus on computational research**
 
 ### On the Web
 
